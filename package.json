@@ -29,13 +29,13 @@
     "test": "grunt test"
   },
   "devDependencies": {
-    "chai": "~1.9",
+    "chai": "~3.5.0",
     "grunt-coffeelint": "~0.0",
-    "grunt-contrib-clean": "~0.5",
-    "grunt-mocha-cov": "~0.2",
-    "coffee-script": "~1.7",
-    "grunt-bumper": "~1.0",
-    "grunt": "~0.4"
+    "grunt-contrib-clean": "~1.0.0",
+    "grunt-mocha-cov": "~0.4.0",
+    "coffee-script": "~1.11.1",
+    "grunt-bumper": "~1.1.0",
+    "grunt": "~1.0.1"
   },
   "peerDependencies": {
     "grunt": "~0.4"
