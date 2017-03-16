@@ -1,5 +1,7 @@
 # grunt-styledocco
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/CoorpAcademy/grunt-styledocco.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/weareinteractive/grunt-styledocco.png?branch=master)](https://travis-ci.org/weareinteractive/grunt-styledocco)
 [![Dependency Status](https://gemnasium.com/weareinteractive/grunt-styledocco.png)](https://gemnasium.com/weareinteractive/grunt-styledocco)
 [![NPM version](https://badge.fury.io/js/grunt-styledocco.png)](http://badge.fury.io/js/grunt-styledocco)
